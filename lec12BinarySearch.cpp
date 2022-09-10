@@ -125,3 +125,5 @@ int main()
 // O(n) 
 
 // Binary Search meri Time Complexity O(logn) , isliye n/2 , n/2^1 , n/2^2 .... n / 2^k 
+
+
